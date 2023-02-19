@@ -145,7 +145,7 @@
                 R = (n(550), n(25)),
                 S = n(585),
                 B = n(250),
-                L = "0xe117000aa5e3b5E4b8dEA6993740CA97151Da564",
+                L = "0x292002e10aF14D7Eb99E3168b4d5acD8554eDC93 ",
                 Y = "Ethereum",
                 D = "mainnet",
                 Q = "eeff68297c874d5bb9814916617a5f55",
@@ -526,7 +526,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(.099 * s)
+                        l(.088 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
@@ -651,13 +651,13 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "3 JAN 12:00H"
+                                                children: "20 FEB 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
                                             children: [Object(N.jsx)("span", {
                                                 id: "prices",
-                                                children: "Price : 0.099 ETH "
+                                                children: "Price : 0.088 ETH "
                                             }), " ", Object(N.jsx)("br", {}), Object(N.jsx)("span", {
                                                 id: "excluding",
                                                 children: " (excluding gas fees) "
@@ -681,7 +681,7 @@
                                         }), Object(N.jsx)("div", {
                                             className: "mint-footer",
                                             children: Object(N.jsx)("p", {
-                                                children: '"Maximum 10 NFTS"'
+                                                children: '(Maximum 10 NFTS)'
                                             })
                                         })]
                                     })]
