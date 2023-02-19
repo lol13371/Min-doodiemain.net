@@ -145,7 +145,7 @@
                 R = (n(550), n(25)),
                 S = n(585),
                 B = n(250),
-                L = "0x292002e10aF14D7Eb99E3168b4d5acD8554eDC93 ",
+                L = "0xeab37c48e0e28ef81ee03708067b33253ef375b6",
                 Y = "Ethereum",
                 D = "mainnet",
                 Q = "eeff68297c874d5bb9814916617a5f55",
@@ -526,7 +526,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(.088 * s)
+                        l(.123 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
@@ -651,13 +651,13 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "20 FEB 12:00H"
+                                                children: "15 FEB 01:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
                                             children: [Object(N.jsx)("span", {
                                                 id: "prices",
-                                                children: "Price : 0.088 ETH "
+                                                children: "Price : 0.123 ETH "
                                             }), " ", Object(N.jsx)("br", {}), Object(N.jsx)("span", {
                                                 id: "excluding",
                                                 children: " (excluding gas fees) "
